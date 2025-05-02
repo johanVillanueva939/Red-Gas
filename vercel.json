@@ -1,3 +1,0 @@
-{
-    "buildCommand": "npm install swiper && npm run build"
-}

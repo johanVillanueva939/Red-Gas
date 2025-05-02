@@ -31,7 +31,6 @@
     "globals": "^15.15.0",
     "vite": "^6.3.0"
   },
-  "buildCommand": "npm run build",
   "engines": {
     "node": "18.x"
   }
